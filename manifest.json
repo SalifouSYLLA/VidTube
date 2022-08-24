@@ -1,0 +1,22 @@
+{
+    "short_name":"VidTube",
+    "name":"VidTube",
+    "icons":[
+       {
+        "src":"images/icon-img-192.png",
+        "type":"image/png",
+        "sizes":"192x192",
+        "purposes":"any maskable"
+       },
+       {
+        "src":"images/icon-img-512.png",
+        "type":"image/png",
+        "sizes":"512x512"
+       }
+
+    ],
+    "start_url":"index.html",
+    "background_color":"#ed3833",
+    "display":"standalone",
+    "theme_color":"#ed3833"
+}
